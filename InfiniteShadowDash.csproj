@@ -323,8 +323,4 @@
       <HintPath>$(HollowKnightRefs)/UnityEngine.XRModule.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-    <None Include="Resources\.gitignore" />
-  </ItemGroup>
 </Project>
